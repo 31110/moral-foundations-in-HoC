@@ -7,4 +7,4 @@ The development of ’systems thinking’ has given rise to theories explaining 
 
 ---
 
-This GitHub repository holds the instructures and code that was used in this dissertation so that other researchers can replicate the findings, or modify the analysis to investigate similar topics. 
+This GitHub repository holds the instructions and code that was used in this dissertation so that other researchers can replicate the findings, or modify the analysis to investigate similar topics. 
